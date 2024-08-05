@@ -1,6 +1,8 @@
 # Blender-Ai-Library
-Blender Ai Library - Ai Tools for 3D Artists
 
+https://blendermarket.com/products/blenderailibrary
+
+Blender Ai Library - Ai Tools for 3D Artists
 
 Text to 3D Model : Generate detailed 3D models directly from text descriptions using the latest AI technology.
 
